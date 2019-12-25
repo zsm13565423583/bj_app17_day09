@@ -1,0 +1,34 @@
+#name: "小明"
+#Name: "小莲"
+#value1: {name: "小明"}
+#values2: 张三
+#value3:
+#  name1: "张三"
+#  name2: "李四"
+#==============数组============
+#value3:
+#  - name1: "阿红三"
+#  - name2: "王阿五"
+#
+#value4: "六六"
+#  - name1: "仙女"
+#  - name2: "仙子"
+
+#============bool============
+#value5: true
+#value6: false
+
+#====空=====
+#value7: null
+#value8: Null
+#value9:
+
+#---------不支持----
+#value10: none
+#value11: " "
+
+
+#===========时间==============
+
+value12: 2020-12-13 12:14:17
+value13: 2020-09-18
